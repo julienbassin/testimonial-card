@@ -52,6 +52,26 @@ img{
   border-radius: 48px; 
 }
 
+.sarah-dole-title{
+  color: var(--Text-primary, var(--colors-neutral-900, #171717));
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.75rem;
+
+}
+
+.sarah-dole-para1{
+  color: var(--Text-secondary, var(--colors-neutral-600, #525252));
+
+  /* text-sm-14/normal */
+  font-family: "Noto Sans";
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.25rem; /* 142.857% */
+}
+
 .sarah-dole-para2{
   width: 18.25rem;
   color: var(--Text-secondary, var(--colors-neutral-600, #525252));
